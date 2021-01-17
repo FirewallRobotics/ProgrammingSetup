@@ -9,7 +9,46 @@ The *Programmer's Guide* allows those interested in being part of the programmin
 
 ## Install VSCode
 
+Download and Install (or update) Visual Studio Code from https://code.visualstudio.com/
+
+You will want to become familiar with the user interface.  Be sure to take some time to read over:  https://code.visualstudio.com/docs/getstarted/userinterface
+
+## Install Python (co-processor programmers)
+
+A python installation is required to do any co-processor programming.  Python 3 is required to meet our needs.
+[Install Python 3](https://docs.python-guide.org/starting/installation/)
+* Be sure to follow the *Python 3 Installation Guides*
 
 ### Install VSCode Extensions
 
+* Bracket Pair Colorizer
+* CodeMetrics
+* Debugger for Chrome
+* Docker
+* ESLint
+* Git Graph
+* GitLab Workflow
+* GitLens
+* Kubernetes
+* Live Share
+* Remote Development
+* Todo Tree
+* Trailing Semicolon
+* Trailing Spaces
+* Visual Studio IntelliCode
+* vscode-icons
+* YAML
+* Python extension from Microsoft
+
+#### Enable Python Linting
+
+Linting will ensure our Python code is consistently styled.
+  * From the Command Palette
+    * "Python: Enable Linting"
+    * "Python: Select Linter", pycodestyle
+
+You may need to install pycodestyle on your platform(Computer of choice).
+
 ### Install WPILib Components
+
+Coming Soon...
