@@ -10,6 +10,10 @@ The *Programmer's Guide* allows those interested in being part of the programmin
 ## Install VSCode
 
 Download and Install (or update) Visual Studio Code from https://code.visualstudio.com/
+Note that while Visual Studio Code can be installed as a stand alone IDE(Integrated Development Environment) it is recommeded
+to use the Visual Stuidio Installer linked to WPILib install. See installation steps at the following link or find the 
+instructions for the corresponding competion year.
+https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html
 
 You will want to become familiar with the user interface.  Be sure to take some time to read over:  https://code.visualstudio.com/docs/getstarted/userinterface
 
