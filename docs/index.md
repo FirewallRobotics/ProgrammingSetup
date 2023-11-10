@@ -22,7 +22,7 @@ Mentors recommend reviewing the following pages of the WPILib documentation to b
 
 ## Robot In A Weekend -*RIAW*
 * Setup a GitHub account if you don't have one. [github.com](https://github.com)
-* Insgtall Visual Studio with the WPILib Installer
+* Install Visual Studio with the WPILib Installer
 * Grab the RIAW code from GitHub
 * Design behaviors you want to implement for this robot, place on story board, priortize, break up into pairs, and divy out tasks.
   
