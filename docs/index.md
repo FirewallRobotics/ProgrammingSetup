@@ -40,6 +40,8 @@ Do you prefer to work with user interfaces? or are you fascinated by a world wit
   * [ Vision Processing](https://docs.wpilib.org/en/stable/docs/software/vision-processing/index.html) Yes!! Give us _*vision*_.
 * [ Hardware Tutorials](https://docs.wpilib.org/en/stable/docs/hardware/hardware-tutorials/index.html) How to make the motors go, understand sensor output, control pnematics, etc. etc.
 
+## Go back to the top level [Readme](https://github.com/FirewallRobotics/ProgrammingSetup/blob/main/README.md#programmingsetup)
+
 ## Notes from past seasons
 ### VSCode
 If you followed the steps above in the WPLILib Installation Guide You do not need to download Visual Studio again.
