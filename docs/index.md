@@ -8,7 +8,9 @@ The *Programmer's Guide* allows those interested in being part of the programmin
 
 * Make sure you have a [github.com](https://github.com) user id.
 * You will need to get added to the *SEASON-YEAR*-Programming Team to be able to contribute.
+* New to Git and Github? Check out this article for a basic intro on how to do code versioning with Github. [Github QuickStart](https://docs.github.com/en/get-started/quickstart/hello-world)
 
+  
 ### WPILib.org
 Firewall's progamming team relies heavily on WPILib.org's set of tools and libraries to jump start our robot's programming. They publish updates with every season. So it's good to be familiar with their docuementation and check for periodic updates during the competition season.  So go ahead and visit [wpilib.org](http://wpilib.org).
 * [2023 WPILib Installation Guide](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html)
