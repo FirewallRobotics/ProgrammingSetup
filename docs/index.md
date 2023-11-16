@@ -26,7 +26,31 @@ Mentors recommend reviewing the following pages of the WPILib documentation to b
 * Setup a GitHub account if you don't have one. [github.com](https://github.com)
 * Install Visual Studio with the WPILib Installer
 * Grab the RIAW code from GitHub
-* Design behaviors you want to implement for this robot, place on story board, priortize, break up into pairs, and divy out tasks.
+     * Go the the  [Firewall/RIAW-TimedRobot public repository](https://github.com/FirewallRobotics/RIAW-TimedRobot.git) Be sure to "Star" it so it shows up under "Stars" in your personal profile, that will make it easier to find again later. While you are saving repositories, star this [Programming Guide Repo](https://github.com/FirewallRobotics/ProgrammingSetup) as well.
+     * [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the repository.
+       * Open "Terminal" in WPILib Visual Stuio 2023, or current year version.
+       * Change directory to where you want your Firewall workspace to be.
+       * git clone https://github.com/FirewallRobotics/RIAW-TimedRobot.git
+       * #### change into the `repo` directory
+               cd RIAW-TimedRobot
+
+         #### create a new branch to store any new changes
+               git branch my-branch
+
+         #### switch to that branch (line of development)
+               git checkout my-branch
+
+         #### make changes, for example, edit `file1.md` and `file2.md` using Visual Studio or Text editor
+         #### stage the changed files
+              git add file1.md file2.md
+
+         #### take a snapshot of the staging area (anything that's been added)
+              git commit -m "my snapshot"
+
+         #### push changes to github
+              git push --set-upstream origin my-branch      
+         
+  * Design behaviors you want to implement for this robot, place on story board, priortize, break up into pairs, and divy out tasks.
   ### Preliminary list of tasks:
    * Setup to program the Revrobotics Spark max controllers
       * 2023 RIAW design has two Neo motors with Revrobotics Spark Max Controllers. Check out Rev robotics support documentation for the [Spark Max controllers
