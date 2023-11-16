@@ -27,7 +27,9 @@ Mentors recommend reviewing the following pages of the WPILib documentation to b
 * Install Visual Studio with the WPILib Installer
 * Grab the RIAW code from GitHub
 * Design behaviors you want to implement for this robot, place on story board, priortize, break up into pairs, and divy out tasks.
-  
+  * 2023 RIAW design has two Neo motors with REV Spark Max Controllers. Check out Rev robotics support documentation for the [Spark Max controllers
+](https://docs.revrobotics.com/sparkmax/gs-sm)
+
 ## Continue on!
 ### That's all great, but I want to Specailize!!
 Do you prefer to work with user interfaces? or are you fascinated by a world with image processing and machine learning?  The team can use your passion and intrest working in either or all of these specialist areas...keep reading :)
