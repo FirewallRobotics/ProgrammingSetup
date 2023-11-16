@@ -27,9 +27,13 @@ Mentors recommend reviewing the following pages of the WPILib documentation to b
 * Install Visual Studio with the WPILib Installer
 * Grab the RIAW code from GitHub
 * Design behaviors you want to implement for this robot, place on story board, priortize, break up into pairs, and divy out tasks.
-  * 2023 RIAW design has two Neo motors with REV Spark Max Controllers. Check out Rev robotics support documentation for the [Spark Max controllers
-](https://docs.revrobotics.com/sparkmax/gs-sm)
-
+  ### Preliminary list of tasks:
+   * Setup to program the Revrobotics Spark max controllers
+      * 2023 RIAW design has two Neo motors with Revrobotics Spark Max Controllers. Check out Rev robotics support documentation for the [Spark Max controllers
+](https://docs.revrobotics.com/sparkmax/gs-sm) The Controller Area Network (CAN bus) is a message-based protocol designed to allow the Electronic Control Units (ECUs) found in today's automobiles, as well as other devices, to communicate with each other in a reliable, priority-driven fashion.
+      * Someone with a Windows computer system will need to [ download the latest rev hardware client](https://docs.revrobotics.com/sparkmax/rev-hardware-client/getting-started-with-the-rev-hardware-client#installation-instructions) so that we can configure the Spark max controllers.
+      * [Revrobotics API for CANSparkMax](https://codedocs.revrobotics.com/java/com/revrobotics/package-summary.html) 
+  
 ## Continue on!
 ### That's all great, but I want to Specailize!!
 Do you prefer to work with user interfaces? or are you fascinated by a world with image processing and machine learning?  The team can use your passion and intrest working in either or all of these specialist areas...keep reading :)
@@ -42,7 +46,10 @@ Do you prefer to work with user interfaces? or are you fascinated by a world wit
   * [ Vision Processing](https://docs.wpilib.org/en/stable/docs/software/vision-processing/index.html) Yes!! Give us _*vision*_.
 * [ Hardware Tutorials](https://docs.wpilib.org/en/stable/docs/hardware/hardware-tutorials/index.html) How to make the motors go, understand sensor output, control pnematics, etc. etc.
 
-## Go back to the top level [Readme](https://github.com/FirewallRobotics/ProgrammingSetup/blob/main/README.md#programmingsetup)
+### Crosstrain
+We can't program the robot if the componenents aren't wired in correctly. Consider cross training with the Electical team so that we can work more efficently.
+* Check out this overview of [Basic FRC robot wiring](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-1/intro-to-frc-robot-wiring.html#attach-battery-connector-to-pdp)
+* [ Wiring the Spark Max Controllers](https://docs.revrobotics.com/sparkmax/gs-sm)## Go back to the top level [Readme](https://github.com/FirewallRobotics/ProgrammingSetup/blob/main/README.md#programmingsetup)
 
 ## Notes from past seasons
 ### VSCode
