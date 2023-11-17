@@ -73,7 +73,9 @@ Do you prefer to work with user interfaces? or are you fascinated by a world wit
 ### Crosstrain
 We can't program the robot if the componenents aren't wired in correctly. Consider cross training with the Electical team so that we can work more efficently.
 * Check out this overview of [Basic FRC robot wiring](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-1/intro-to-frc-robot-wiring.html#attach-battery-connector-to-pdp)
-* [ Wiring the Spark Max Controllers](https://docs.revrobotics.com/sparkmax/gs-sm)## Go back to the top level [Readme](https://github.com/FirewallRobotics/ProgrammingSetup/blob/main/README.md#programmingsetup)
+* [ Wiring the Spark Max Controllers](https://docs.revrobotics.com/sparkmax/gs-sm)
+
+## Go back to the top level [Readme](https://github.com/FirewallRobotics/ProgrammingSetup/blob/main/README.md#programmingsetup)
 
 ## Notes from past seasons
 ### VSCode
