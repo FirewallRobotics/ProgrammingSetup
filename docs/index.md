@@ -56,7 +56,10 @@ Mentors recommend reviewing the following pages of the WPILib documentation to b
       * 2023 RIAW design has two Neo motors with Revrobotics Spark Max Controllers. Check out Rev robotics support documentation for the [Spark Max controllers
 ](https://docs.revrobotics.com/sparkmax/gs-sm) The Controller Area Network (CAN bus) is a message-based protocol designed to allow the Electronic Control Units (ECUs) found in today's automobiles, as well as other devices, to communicate with each other in a reliable, priority-driven fashion.
       * Someone with a Windows computer system will need to [ download the latest rev hardware client](https://docs.revrobotics.com/sparkmax/rev-hardware-client/getting-started-with-the-rev-hardware-client#installation-instructions) so that we can configure the Spark max controllers.
-      * [Revrobotics API for CANSparkMax](https://codedocs.revrobotics.com/java/com/revrobotics/package-summary.html) 
+      * [Revrobotics API for CANSparkMax](https://codedocs.revrobotics.com/java/com/revrobotics/package-summary.html)
+      * [WPILib simple Autonomos example](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-4/creating-test-drivetrain-program-cpp-java.html#simple-autonomous-example)
+      * [joystick example](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-4/creating-test-drivetrain-program-cpp-java.html#joystick-control-for-teleoperation)
+      * [Tankdrive](https://docs.wpilib.org/en/stable/docs/software/hardware-apis/motors/wpi-drive-classes.html#using-the-wpilib-classes-to-drive-your-robot)
   
 ## Continue on!
 ### That's all great, but I want to Specailize!!
