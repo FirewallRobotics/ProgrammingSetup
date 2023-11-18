@@ -29,8 +29,8 @@ Mentors recommend reviewing the following pages of the WPILib documentation to b
      * Go the the  [Firewall/RIAW-TimedRobot public repository](https://github.com/FirewallRobotics/RIAW-TimedRobot.git) Be sure to "Star" it so it shows up under "Stars" in your personal profile, that will make it easier to find again later. While you are saving repositories, star this [Programming Guide Repo](https://github.com/FirewallRobotics/ProgrammingSetup) as well.
      * [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the repository.
        * Open "Terminal" in WPILib Visual Stuio 2023, or current year version.
-       * Change directory to where you want your Firewall workspace to be.
-       * git clone https://github.com/FirewallRobotics/RIAW-TimedRobot.git
+       * Change directory to where you want your Firewall workspace to be. And clone this year's RIAW branch.
+       * git clone --branch 202311-RIAW https://github.com/FirewallRobotics/RIAW-TimedRobot.git
        * #### change into the `repo` directory
                cd RIAW-TimedRobot
 
