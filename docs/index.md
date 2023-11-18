@@ -60,6 +60,12 @@ Mentors recommend reviewing the following pages of the WPILib documentation to b
       * [WPILib simple Autonomos example](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-4/creating-test-drivetrain-program-cpp-java.html#simple-autonomous-example)
       * [joystick example](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-4/creating-test-drivetrain-program-cpp-java.html#joystick-control-for-teleoperation)
       * [Tankdrive](https://docs.wpilib.org/en/stable/docs/software/hardware-apis/motors/wpi-drive-classes.html#using-the-wpilib-classes-to-drive-your-robot)
+
+
+Additional Links: 
+      * https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-4/creating-test-drivetrain-program-cpp-java.html  - example using Arcade Drive (we want Tank Drive)
+      * https://github.wpilib.org/allwpilib/docs/release/java/edu/wpi/first/wpilibj/drive/DifferentialDrive.html    - Documentation for DifferentialDrive class
+      
   
 ## Continue on!
 ### That's all great, but I want to Specailize!!
