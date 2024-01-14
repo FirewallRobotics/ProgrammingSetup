@@ -5,7 +5,7 @@ A place to define how programmers need to get setup to be effective
 ](https://github.com/FirewallRobotics/ProgrammingSetup/blob/main/docs/index.md#welcome-to-team-5607-programmers-guide)
 * For Robot in a weekend you will want to jump [here
 ](https://github.com/FirewallRobotics/ProgrammingSetup/blob/main/docs/index.md#robot-in-a-weekend--riaw) in the Guide.
-* [Vision Reference page](https://github.com/FirewallRobotics/ProgrammingSetup/blob/main/docs/visionrefernces.md)
+* [Vision Reference page](https://github.com/FirewallRobotics/ProgrammingSetup/blob/bdc981740d43dd75debca2f2a32ed5c6215b3b80/docs/visionreferences.md)
 
 # Want to pick up a new language or do self-study?
 * Mrs. Darby recommends checking out [Hackerrank.com for developers
