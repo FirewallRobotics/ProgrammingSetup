@@ -5,3 +5,5 @@
 * StackOverflow discussion on how to generate 3dpose cube for april tags. it can be used to help get target rotation information. [Sample code](https://stackoverflow.com/questions/59044973/how-do-i-draw-a-line-indicating-the-orientation-of-an-apriltag)
 *  Pose estimation article from team [2687
 ](https://medium.com/analytics-vidhya/using-homography-for-pose-estimation-in-opencv-a7215f260fdd)
+* Opencv documentation on [homography
+](https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html)
