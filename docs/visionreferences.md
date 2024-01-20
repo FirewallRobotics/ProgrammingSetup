@@ -21,3 +21,6 @@ This will create a file apriltag-0.0.16.tar.gz in whatever directory you run it 
 
 pip3 install apriltag --no-index --find-links ./
 * Make sure you turn off the "Extract .zip or tgx" slide button.
+
+  # How to enable wifi on wpilib pi
+  [wpilipi wifi script](https://github.com/wpilibsuite/WPILibPi/blob/main/stage5/02-net-tweaks/01-run.sh)https://github.com/wpilibsuite/WPILibPi/blob/main/stage5/02-net-tweaks/01-run.sh
