@@ -6,6 +6,7 @@ A place to define how programmers need to get setup to be effective
 * For Robot in a weekend you will want to jump [here
 ](https://github.com/FirewallRobotics/ProgrammingSetup/blob/main/docs/index.md#robot-in-a-weekend--riaw) in the Guide.
 * [Vision Reference page](https://github.com/FirewallRobotics/ProgrammingSetup/blob/bdc981740d43dd75debca2f2a32ed5c6215b3b80/docs/visionreferences.md)
+*  [IP's for Robot Network](https://docs.wpilib.org/en/stable/docs/networking/networking-introduction/ip-configurations.html)
 
 # Want to pick up a new language or do self-study?
 * Mrs. Darby recommends checking out [Hackerrank.com for developers
