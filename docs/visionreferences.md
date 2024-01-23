@@ -31,3 +31,4 @@ pip3 install apriltag --no-index --find-links ./
 * Configure outline viewr to connect to Robot server
   * Options->Setttings : specify localhost for team/ip field. Select Apply
   * modify python code to use "127.0.0.1" when setting ntinst server.
+  * [Wpilib doc to OutlineViewer] (https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/outlineviewer/index.html)
