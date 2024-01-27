@@ -32,3 +32,6 @@ pip3 install apriltag --no-index --find-links ./
   * Options->Setttings : specify localhost for team/ip field. Select Apply
   * modify python code to use "127.0.0.1" when setting ntinst server.
   * [Wpilib doc to OutlineViewer] (https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/outlineviewer/index.html)
+
+# April Tags
+* [robotpy_apriltag api] (https://robotpy.readthedocs.io/projects/apriltag/en/latest/robotpy_apriltag.html)
