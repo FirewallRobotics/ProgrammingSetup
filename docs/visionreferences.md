@@ -35,3 +35,6 @@ pip3 install apriltag --no-index --find-links ./
 
 # April Tags
 * [robotpy_apriltag api] (https://robotpy.readthedocs.io/projects/apriltag/en/latest/robotpy_apriltag.html)
+
+  # Sensor Data Sheets
+https://maxbotix.com/pages/hrlv-maxsonar-ez-datasheet
