@@ -7,6 +7,7 @@ A place to define how programmers need to get setup to be effective
 ](https://github.com/FirewallRobotics/ProgrammingSetup/blob/main/docs/index.md#robot-in-a-weekend--riaw) in the Guide.
 * [Vision Reference page](https://github.com/FirewallRobotics/ProgrammingSetup/blob/main/docs/visionreferences.md)
 *  [IP's for Robot Network](https://docs.wpilib.org/en/stable/docs/networking/networking-introduction/ip-configurations.html)
+*  [Lesson on How to use Github Copilot](https://github.com/skills/getting-started-with-github-copilot)
 
 # Want to pick up a new language or do self-study?
 * Mrs. Darby recommends checking out [Hackerrank.com for developers
